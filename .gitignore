@@ -1,0 +1,10 @@
+.idea/*
+.idea/httpRequests/*
+
+*.iml
+D:
+target
+logs
+.project
+/.classpath
+*eclipse*
